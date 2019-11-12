@@ -2,9 +2,9 @@
 
 to install all dependencies
 
-### `json-server server.json -p 3333 -d 10000`
+### `json-server server.json -p 3333 -d 1000`
 
-run local api to view products
+Runs local api to view products.
 
 ### `npm start`
 
