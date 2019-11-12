@@ -2,7 +2,7 @@
 
 to install all dependencies
 
-### `json-server server.json -p 3333 -d 1000`
+### `json-server server.json -p 3333 -d 500`
 
 Runs local api to view products.
 
